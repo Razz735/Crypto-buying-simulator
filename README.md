@@ -1,1 +1,1 @@
-# Crypto-buying-stimulator-
+# Crypto-buying-simulator-
