@@ -1,5 +1,4 @@
 # Crypto Exchange
-
 Full stack Crypto Exchange that lets you practice cryptocurrency trading with fake money!
 
 <div align="center">
@@ -34,8 +33,7 @@ react, typescript, redux, mongoose, MUI components, styled-components, cloudinar
 #### How to install and run?
 
 ```bash
-# Clone this repository
- git clone https://github.com/rcamach7/crypto-exchange
+#unzip the file then
  cd crypto-exchange
 
 #  Run local server
